@@ -1,12 +1,12 @@
 
 
 ## Descripcion
-
+```bash
 Mi Nombre es Samir Hadechni Ing Mecatronico de la Universidad Autónoma del Caribe, enfocado el área de sistema de control,
 automatización y programación. Con deseos de adquirir cada día más conocimiento en el área investigativa y productiva. 
 Proyecto de grado encaminado a la detección de oscilaciones en los sistemas de control con registro de software y 
 publicación en revista científica (Technology Reports of Kansai University).
-
+```
 
 ## Cursos
 - Semillero de investigación.
