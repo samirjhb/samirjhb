@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @samirjhb
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 
 ## Descripcion
@@ -36,6 +31,23 @@ publicación en revista científica (Technology Reports of Kansai University).
 - Revit MEP – Instalaciones Mecánicas (Udemy)
 - Explorar tecnología emergente (IBM)
 - Habilidades profesionales (IBM)
+
+##Lenguaje o Framework
+
+- Node Js 
+- TypeScript
+- Nest Js
+- Python
+- CSS HTML
+- Angular 
+- Ionic 
+
+
+
+
+
+
+
 
 
 
