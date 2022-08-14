@@ -9,6 +9,7 @@ publicación en revista científica (Technology Reports of Kansai University).
 ```
 
 ## Cursos
+```bash
 - Semillero de investigación.
 - Mecánico certificado del programa delo interactive training por la empresa Dismacor S.A.S.
 - Introducción MATLAB.
@@ -31,9 +32,11 @@ publicación en revista científica (Technology Reports of Kansai University).
 - Revit MEP – Instalaciones Mecánicas (Udemy)
 - Explorar tecnología emergente (IBM)
 - Habilidades profesionales (IBM)
+```
 
 ## Lenguaje o Framework
 
+```bash
 - Node Js 
 - TypeScript
 - Nest Js
@@ -44,20 +47,23 @@ publicación en revista científica (Technology Reports of Kansai University).
 - Zelio Soft
 - EasyCaf
 - Matlab
+```
 
 ## Base de Datos
-
+```bash
 - MongoDB
 - Postgres
 - MYSQL
+```
 
 ## Herramientas Para Programar 
 
+```bash
 - Visual Studio
 - PostMan
 - GITLAB
 - GITHUB
-
+```
 
 
 
