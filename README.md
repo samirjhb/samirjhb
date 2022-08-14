@@ -32,7 +32,7 @@ publicación en revista científica (Technology Reports of Kansai University).
 - Explorar tecnología emergente (IBM)
 - Habilidades profesionales (IBM)
 
-##Lenguaje o Framework
+## Lenguaje o Framework
 
 - Node Js 
 - TypeScript
@@ -41,6 +41,24 @@ publicación en revista científica (Technology Reports of Kansai University).
 - CSS HTML
 - Angular 
 - Ionic 
+- Zelio Soft
+- EasyCaf
+- Matlab
+
+## Base de Datos
+
+- MongoDB
+- Postgres
+- MYSQL
+
+## Herramientas Para Programar 
+
+- Visual Studio
+- PostMan
+- GITLAB
+- GITHUB
+
+
 
 
 
