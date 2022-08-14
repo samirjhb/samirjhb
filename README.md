@@ -33,7 +33,7 @@ publicación en revista científica (Technology Reports of Kansai University).
 - Habilidades profesionales (IBM)
 ```
 
-## Lenguaje o Framework
+## Lenguaje o Framework 👨‍💻	
 
 ```bash
 - Node Js 
