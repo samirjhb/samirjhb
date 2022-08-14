@@ -18,8 +18,7 @@ publicación en revista científica (Technology Reports of Kansai University).
 - Aplicación de los sensores en los circuitos eléctricos de la industria (SENA).
 - Conceptualización del lenguaje de programación c++ (SENA)
 - Programación web (EDUCACION IT)
-- SolidWorks: Preparación para la certificación CSWA. Avanzando Hacia La Ciencia Abierta: 
-    Una Perspectiva Desde La Empresa De Información Científica (Elsevier). Scopus Para Editores
+- SolidWorks: Preparación para la certificación CSWA. Avanzando Hacia La Ciencia Abierta: Una Perspectiva Desde La Empresa De Información Científica (Elsevier). Scopus Para Editores
 - Node: De cero a experto (Udemy)
 -Financiamiento De La Investigación: Desafíos, Consideraciones Y Oportunidades (Elsevier).
 - Python sin fronteras: HTML, CSS, Flask y MySQL(Udemy).
