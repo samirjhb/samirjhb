@@ -1,6 +1,6 @@
 
 
-## Descripcion
+## Descripcion 🧑‍💼
 ```bash
 Mi Nombre es Samir Hadechni Ing Mecatronico de la Universidad Autónoma del Caribe, enfocado el área de sistema de control,
 automatización y programación. Con deseos de adquirir cada día más conocimiento en el área investigativa y productiva. 
