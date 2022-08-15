@@ -31,6 +31,9 @@ publicación en revista científica (Technology Reports of Kansai University).
 📍 Revit MEP – Instalaciones Mecánicas (Udemy)
 📍 Explorar tecnología emergente (IBM)
 📍 Habilidades profesionales (IBM)
+📍 Diseño Web con HTML5 + CSS (SENCE)
+📍 Aprende Wordpress de forma sencilla (SENCE)
+📍 Programacion con JavaScript (SENCE)
 ```
 
 ## Lenguaje o Framework 👨‍💻	
