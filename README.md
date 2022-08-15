@@ -36,32 +36,32 @@ publicación en revista científica (Technology Reports of Kansai University).
 ## Lenguaje o Framework 👨‍💻	
 
 ```bash
-- Node Js 
-- TypeScript
-- Nest Js
-- Python
-- CSS HTML
-- Angular 
-- Ionic 
-- Zelio Soft
-- EasyCaf
-- Matlab
+✅  Node Js 
+✅ TypeScript
+✅ Nest Js
+✅ Python
+✅ CSS HTML
+✅ Angular 
+✅ Ionic 
+✅ Zelio Soft
+✅ EasyCaf
+✅ Matlab
 ```
 
-## Base de Datos
+## Base de Datos 🦿	
 ```bash
-- MongoDB
-- Postgres
-- MYSQL
+🧩 MongoDB
+🧩 Postgres
+🧩 MYSQL
 ```
 
-## Herramientas Para Programar 
+## Herramientas Para Programar 🦾
 
 ```bash
-- Visual Studio
-- PostMan
-- GITLAB
-- GITHUB
+🖥️	 Visual Studio
+🖥️	 PostMan
+🖥️	 GITLAB
+🖥️	 GITHUB
 ```
 
 
