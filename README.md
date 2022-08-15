@@ -36,7 +36,7 @@ publicación en revista científica (Technology Reports of Kansai University).
 ## Lenguaje o Framework 👨‍💻	
 
 ```bash
-✅  Node Js 
+✅ Node Js 
 ✅ TypeScript
 ✅ Nest Js
 ✅ Python
