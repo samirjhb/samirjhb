@@ -34,6 +34,8 @@ publicación en revista científica (Technology Reports of Kansai University).
 📍 Diseño Web con HTML5 + CSS (SENCE)
 📍 Aprende Wordpress de forma sencilla (SENCE)
 📍 Programacion con JavaScript (SENCE)
+📍 NestJS: Creando Aplicacion del Backend con Socket
+
 ```
 
 ## Lenguaje o Framework 👨‍💻	
