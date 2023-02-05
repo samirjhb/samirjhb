@@ -44,6 +44,7 @@ publicación en revista científica (Technology Reports of Kansai University).
 ✅ Node Js 
 ✅ TypeScript
 ✅ Nest Js
+✅ Docker
 ✅ Python
 ✅ CSS HTML
 ✅ Angular 
