@@ -23,7 +23,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-Ingeniero Mecatrónico y **Magíster en Ingeniería Informática**, con más de 4 años en el **ciclo de vida completo del software**: diseño, desarrollo frontend y backend, pruebas, despliegue, monitoreo y documentación técnica. He construido soluciones para **banca, salud, industria y entidades gubernamentales**. Empecé en la automatización industrial y la investigación en sistemas de control, y hoy aplico esa mirada de ingeniería de sistemas a aplicaciones escalables, seguras y bien diseñadas.
+Ingeniero Mecatrónico y **Magíster en Ingeniería Informática**, con más de 5 años en el **ciclo de vida completo del software**: diseño, desarrollo frontend y backend, pruebas, despliegue, monitoreo y documentación técnica. He construido soluciones para **banca, salud, industria y entidades gubernamentales**. Empecé en la automatización industrial y la investigación en sistemas de control, y hoy aplico esa mirada de ingeniería de sistemas a aplicaciones escalables, seguras y bien diseñadas.
 
 ```ts
 const samir = {
