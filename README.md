@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4f46e5,100:a855f7&height=200&section=header&text=Samir%20Hadechni&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Senior%20Full%20Stack%20Developer%20%C2%B7%20Open%20Banking&descSize=18&descAlignY=58" width="100%" alt="Samir Hadechni"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4f46e5,100:a855f7&height=200&section=header&text=Samir%20Hadechni&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Senior%20Full%20Stack%20Developer%20%C2%B7%20Integration%20Engineer&descSize=18&descAlignY=58" width="100%" alt="Samir Hadechni"/>
 
 <p align="center">
   <a href="https://samirhadechni.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=620&lines=Integration+Engineer+%40+SystemVan+%F0%9F%8F%A6;Open+Banking+Chile+%C2%B7+FAPI+2.0+%C2%B7+ISO+20022;NestJS+%C2%B7+Angular+%C2%B7+React+%C2%B7+AWS;Clean+Architecture+%2B+SOLID+%2B+Microservicios" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=620&lines=Senior+Full+Stack+Developer+%F0%9F%9A%80;Integraciones+seguras+%C2%B7+FAPI+2.0+%C2%B7+ISO+20022;NestJS+%C2%B7+Angular+%C2%B7+React+%C2%B7+AWS;Clean+Architecture+%2B+SOLID+%2B+Microservicios" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -23,22 +23,27 @@
 
 ## 🧑‍💻 Sobre mí
 
-Ingeniero Mecatrónico y **Magíster en Ingeniería Informática**, con más de 6 años construyendo software para **banca, salud e industria**. Empecé en la automatización industrial y la investigación en sistemas de control. Hoy aplico esa mirada de ingeniería de sistemas a aplicaciones escalables, seguras y bien diseñadas.
+Ingeniero Mecatrónico y **Magíster en Ingeniería Informática**, con más de 4 años en el **ciclo de vida completo del software**: diseño, desarrollo frontend y backend, pruebas, despliegue, monitoreo y documentación técnica. He construido soluciones para **banca, salud, industria y entidades gubernamentales**. Empecé en la automatización industrial y la investigación en sistemas de control, y hoy aplico esa mirada de ingeniería de sistemas a aplicaciones escalables, seguras y bien diseñadas.
 
 ```ts
 const samir = {
   rol: 'Integration Engineer @ SystemVan',
-  proyectoActual: 'Ecosistema Open Banking Chile (CMF · NCG 569)',
   trabajoEnEquipoCon: ['Negocio', 'Producto', 'Cumplimiento', 'Seguridad', 'Infraestructura'],
   dia_a_dia: [
     'Historias de usuario, casos de uso y reglas de negocio',
     'APIs RESTful documentadas en OpenAPI 3.1',
     'Seguridad FAPI 2.0: mTLS, PAR, JAR/JARM, SCA',
     'Pagos bajo el estándar ISO 20022',
+    'Monitoreo y observabilidad de APIs en producción',
   ],
-  stack: { backend: ['NestJS', 'Node.js', 'Python'], frontend: ['Angular', 'React'], cloud: ['AWS', 'Azure'] },
+  stack: {
+    frontend: ['Angular', 'React', 'Ionic'],
+    backend: ['Node.js', 'NestJS', 'Express', 'Python'],
+    datos: ['MongoDB', 'Redis', 'PostgreSQL', 'MySQL'],
+    cloud: ['AWS Lambda', 'API Gateway', 'Azure', 'Docker', 'Kubernetes'],
+  },
   principios: ['Clean Architecture', 'SOLID', 'Microservicios', 'Event-Driven'],
-  aprendiendo: ['Arquitecturas serverless en AWS', 'IA aplicada al desarrollo'],
+  metodologia: ['Scrum', 'Jira', 'Historias de usuario', 'Refinamiento y planificación de sprints'],
 };
 ```
 
@@ -68,11 +73,13 @@ const samir = {
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open_Banking-CMF_NCG_569-0f172a?style=flat-square"/>
   <img src="https://img.shields.io/badge/Seguridad-FAPI_2.0-4f46e5?style=flat-square"/>
   <img src="https://img.shields.io/badge/Pagos-ISO_20022-a855f7?style=flat-square"/>
   <img src="https://img.shields.io/badge/APIs-OpenAPI_3.1-22c55e?style=flat-square"/>
   <img src="https://img.shields.io/badge/Auth-OAuth2_%2F_OIDC-0A66C2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AWS-Serverless_(Lambda_%C2%B7_API_Gateway)-FF9900?style=flat-square&logo=awslambda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Observabilidad-Monitoreo_en_producci%C3%B3n-0f172a?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Agile-Scrum_%C2%B7_Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
 </p>
 
 ## 🚀 Proyectos destacados
@@ -126,8 +133,8 @@ const samir = {
 
 | | Rol | Empresa · Cliente | Periodo |
 |:-:|---|---|---|
-| 🏦 | **Integration Engineer** | SystemVan · Bci (Open Banking) | Jun 2026 – **Presente** |
-| 🛢️ | Full-Stack Developer | EvolvIT · Aramco (React + AWS) | May 2026 – Jul 2026 |
+| 🏦 | **Integration Engineer** | SystemVan | Jun 2026 – **Presente** |
+| 🛢️ | Full-Stack Developer | EvolvIT SpA · Aramco (React + AWS Serverless) | May 2026 – Jul 2026 |
 | 📈 | Senior Full-Stack Developer | Kibernum · BancoEstado | Dic 2025 – May 2026 |
 | 🏥 | Full-Stack Developer | Trebol-IT · Clínica Alemana | Abr 2024 – Nov 2025 |
 | 🏛️ | Full-Stack Developer | Solnet · Banca y municipios | May 2023 – Abr 2024 |
